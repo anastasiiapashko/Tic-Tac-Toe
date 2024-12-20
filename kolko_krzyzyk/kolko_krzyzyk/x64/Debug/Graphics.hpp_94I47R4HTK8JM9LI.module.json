@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Graphics.hpp_94I47R4HTK8JM9LI.obj",
+            "outputs": [
+                "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\Graphics.hpp_94I47R4HTK8JM9LI.module.json",
+                "x64\\Debug\\Graphics.hpp_94I47R4HTK8JM9LI.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Lenovo\\Desktop\\SFML\\SFML-2.6.1\\include\\SFML\\Graphics.hpp",
+                    "source-path": "c:\\users\\lenovo\\desktop\\sfml\\sfml-2.6.1\\include\\sfml\\graphics.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

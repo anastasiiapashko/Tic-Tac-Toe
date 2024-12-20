@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\polsl\\pk4\\0e4bd7e3-gr32-repo\\projekt\\kolko_krzyzyk\\kolko_krzyzyk\\zapisgry.ixx",
+        "ProvidedModule": "zapisGry",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\iostream",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\iostream_2D86B2BA07B190DD.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\fstream",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\fstream_F66B2CA67445A41D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\filesystem",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\filesystem_583868A821ECA39E.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\vector",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\vector_8813B2EFA34ABBC6.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\string",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\string_93AE7BABBF4DF134.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\concepts",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\concepts_4EB5FC36016BC274.ifc.dt"
+            }
+        ]
+    }
+}

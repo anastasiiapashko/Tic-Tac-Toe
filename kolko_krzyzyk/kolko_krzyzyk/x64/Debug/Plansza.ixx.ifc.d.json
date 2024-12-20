@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\polsl\\pk4\\0e4bd7e3-gr32-repo\\projekt\\kolko_krzyzyk\\kolko_krzyzyk\\plansza.ixx",
+        "ProvidedModule": "Plansza",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Komunikator",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\Komunikator.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\users\\lenovo\\desktop\\sfml\\sfml-2.6.1\\include\\sfml\\graphics.hpp",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\Graphics.hpp_94I47R4HTK8JM9LI.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\iostream",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\iostream_108L17NEQX0YR1QH.ifc"
+            }
+        ]
+    }
+}

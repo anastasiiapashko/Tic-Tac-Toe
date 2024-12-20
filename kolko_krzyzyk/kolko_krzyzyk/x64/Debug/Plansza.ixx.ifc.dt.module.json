@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\polsl\\pk4\\0e4bd7e3-gr32-repo\\projekt\\kolko_krzyzyk\\kolko_krzyzyk\\plansza.ixx",
+        "ProvidedModule": "Plansza",
+        "ImportedModules": [
+            "Komunikator"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Users\\Lenovo\\Desktop\\SFML\\SFML-2.6.1\\include\\SFML\\Graphics.hpp",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\iostream"
+        ]
+    }
+}

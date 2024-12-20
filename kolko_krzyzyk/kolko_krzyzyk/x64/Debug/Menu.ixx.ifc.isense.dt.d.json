@@ -1,0 +1,56 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\polsl\\pk4\\0e4bd7e3-gr32-repo\\projekt\\kolko_krzyzyk\\kolko_krzyzyk\\menu.ixx",
+        "ProvidedModule": "Menu",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Game",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\Game.ixx.ifc.dt"
+            },
+            {
+                "Name": "zapisGry",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\zapisGry.ixx.ifc.dt"
+            },
+            {
+                "Name": "Plansza",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\Plansza.ixx.ifc.dt"
+            },
+            {
+                "Name": "Gracz",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\Gracz.ixx.ifc.dt"
+            },
+            {
+                "Name": "Komunikator",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\Komunikator.ixx.ifc.dt"
+            },
+            {
+                "Name": "Checker",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\Checker.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\users\\lenovo\\desktop\\sfml\\sfml-2.6.1\\include\\sfml\\graphics.hpp",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\Graphics.hpp_465237D218014F0E.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\iostream",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\iostream_40F4BCCA54C99B1D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\fstream",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\fstream_B6D24C629121295D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\chrono",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\chrono_802C68679185E972.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\filesystem",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Debug\\filesystem_4539452B0C4C28DE.ifc.dt"
+            }
+        ]
+    }
+}

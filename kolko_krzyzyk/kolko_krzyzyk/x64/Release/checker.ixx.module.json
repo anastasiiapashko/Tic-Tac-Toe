@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Checker.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\Lenovo\\Desktop\\polsl\\PK4\\0e4bd7e3-gr32-repo\\Projekt\\kolko_krzyzyk\\kolko_krzyzyk\\x64\\Release\\Checker.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Checker",
+                    "source-path": "c:\\users\\lenovo\\desktop\\polsl\\pk4\\0e4bd7e3-gr32-repo\\projekt\\kolko_krzyzyk\\kolko_krzyzyk\\checker.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Plansza"
+                },
+                {
+                    "logical-name": "Gracz"
+                }
+            ]
+        }
+    ]
+}

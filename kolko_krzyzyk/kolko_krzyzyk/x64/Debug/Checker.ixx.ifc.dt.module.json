@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\polsl\\pk4\\0e4bd7e3-gr32-repo\\projekt\\kolko_krzyzyk\\kolko_krzyzyk\\checker.ixx",
+        "ProvidedModule": "Checker",
+        "ImportedModules": [
+            "Plansza",
+            "Gracz"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

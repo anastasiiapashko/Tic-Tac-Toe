@@ -1,0 +1,148 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  zapisGry.ixx
+  Komunikator.ixx
+  Trwa kompilowanie…
+  Komunikator.ixx
+  zapisGry.ixx
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\zapisGry.ixx(8,23): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Komunikator.ixx(8,26): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+  Plansza.ixx
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(9,22): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,58): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,58): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,58): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,58): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,58): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,48): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,48): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,48): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,48): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(60,48): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(67,52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(67,38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(72,55): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(72,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(75,56): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(75,42): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,60): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,60): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,60): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,60): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,60): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,44): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,44): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,44): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,44): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,44): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,60): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,60): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,60): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,60): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,60): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,44): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,44): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,44): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,44): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,44): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,60): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,60): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,60): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,60): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,60): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,44): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,44): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,44): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,44): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(87,44): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,60): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,60): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,60): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,60): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,60): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,44): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,44): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,44): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,44): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(88,44): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(98,37): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(102,46): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(102,30): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Checker.ixx
+  Game.ixx
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(10,19): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+  Menu.ixx
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(7,19): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244:             T=unsigned int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244:         and
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,88): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244:             T=unsigned int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244:         and
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(73,63): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244:             T=int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244:         and
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,86): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244:             T=int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244:         and
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(92,74): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244:             T=int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244:         and
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,90): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244:             T=int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244:         and
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(94,78): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244:             T=int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244:         and
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,91): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244:         with
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244:             T=int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244:         ]
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244:         and
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244:         [
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244:             T=float
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(96,79): warning C4244:         ]
+  kolko_krzyzyk.cpp
+  kolko_krzyzyk.vcxproj -> C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\x64\Debug\kolko_krzyzyk.exe

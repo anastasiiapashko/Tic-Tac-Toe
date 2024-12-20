@@ -1,0 +1,313 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  Checker.ixx
+  Gracz.ixx
+  Game.ixx
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(1,8): error C1083: Nie można otworzyć pliku jednostka nagłówka: 'SFML/Graphics.hpp': No such file or directory
+  Menu.ixx
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(1,8): error C1083: Nie można otworzyć pliku jednostka nagłówka: 'SFML/Graphics.hpp': No such file or directory
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Release\Game.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Release\Menu.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+  iostream
+  Trwa kompilowanie…
+  Game.ixx
+  iostream
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(1,27): error C7612: nie można znaleźć jednostki nagłówka dla „SFML/Graphics.hpp”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(2,18): error C7612: nie można znaleźć jednostki nagłówka dla „iostream”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(4,19): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(5,13): error C2230: nie można znaleźć modułu „Gracz”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(6,15): error C2230: nie można znaleźć modułu „Plansza”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\zapisGry.h(3,10): warning C5244: Dyrektywa '#include <iostream>' w obszarze modułu 'Game' wydaje się być błędna.  Rozważ przeniesienie tej dyrektywy przed deklaracją modułu lub zastąp dołączenie tekstowe opcją "import <iostream>;".
+  (kompilowanie pliku źródłowego „Game.ixx”)
+  C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(4,8):
+  zobacz deklarację modułu "Game"
+  
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\zapisGry.h(5,10): warning C5244: Dyrektywa '#include <fstream>' w obszarze modułu 'Game' wydaje się być błędna.  Rozważ przeniesienie tej dyrektywy przed deklaracją modułu lub zastąp dołączenie tekstowe opcją "import <fstream>;".
+  (kompilowanie pliku źródłowego „Game.ixx”)
+  C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(4,8):
+  zobacz deklarację modułu "Game"
+  
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\zapisGry.h(6,10): warning C5244: Dyrektywa '#include <filesystem>' w obszarze modułu 'Game' wydaje się być błędna.  Rozważ przeniesienie tej dyrektywy przed deklaracją modułu lub zastąp dołączenie tekstowe opcją "import <filesystem>;".
+  (kompilowanie pliku źródłowego „Game.ixx”)
+  C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(4,8):
+  zobacz deklarację modułu "Game"
+  
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(14,13): error C3646: "plansza": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(14,20): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(16,11): error C3646: "gracz1": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(16,17): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(17,11): error C3646: "gracz2": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(17,17): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(18,5): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(18,22): error C3646: "window": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(18,28): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(42,42): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u017C" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(45,42): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00F3" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(45,42): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(57,34): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u017C" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(57,34): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(61,34): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00F3" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(61,34): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(27,16): error C2653: "Gracz": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(27,31): error C2065: "Cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(27,46): error C2653: "Gracz": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(27,61): error C2065: "Circle": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(28,16): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(28,20): error C3861: "VideoMode": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(26,14): error C2614: „Game”: Niedozwolone inicjowanie składowej: „plansza” nie jest obiektem bazowym ani składową
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(27,9): error C2614: „Game”: Niedozwolone inicjowanie składowej: „gracz1” nie jest obiektem bazowym ani składową
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(27,39): error C2614: „Game”: Niedozwolone inicjowanie składowej: „gracz2” nie jest obiektem bazowym ani składową
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(28,9): error C2614: „Game”: Niedozwolone inicjowanie składowej: „window” nie jest obiektem bazowym ani składową
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(32,16): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(33,13): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(33,17): error C2065: "Event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(33,23): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „event”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(33,23): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(34,33): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(34,50): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(35,21): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(35,35): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(35,46): error C2065: "Closed": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(36,21): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(37,21): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(37,35): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(37,46): error C2065: "MouseButtonPressed": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(38,29): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(39,29): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(54,13): error C2653: "Plansza": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(54,22): error C2065: "Pole": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(54,27): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „winner”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(54,27): error C2065: "winner": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(54,36): error C2065: "plansza": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(55,17): error C2065: "winner": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(55,27): error C2653: "Plansza": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(55,42): error C2065: "None": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(56,21): error C2065: "winner": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(56,31): error C2653: "Plansza": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(56,46): error C2065: "Cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(60,26): error C2065: "winner": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(60,36): error C2653: "Plansza": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(60,51): error C2065: "Circle": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(66,35): error C2065: "plansza": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(66,55): error C2065: "plansza": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(80,9): error C2065: "plansza": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(80,27): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(84,30): error C2065: "plansza": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(85,30): error C2065: "plansza": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(86,13): error C2065: "plansza": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(86,42): error C2653: "Plansza": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(86,57): error C2065: "None": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(87,13): error C2653: "Plansza": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(87,22): error C2065: "Pole": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(87,27): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „symbol”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(87,27): error C2065: "symbol": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(87,72): error C2653: "Plansza": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(87,87): error C2065: "Cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(87,95): error C2653: "Plansza": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(87,110): error C2065: "Circle": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(88,13): error C2065: "plansza": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Game.ixx(88,39): error C2065: "symbol": niezadeklarowany identyfikator
+  Plansza.ixx
+  Menu.ixx
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(1,27): error C7612: nie można znaleźć jednostki nagłówka dla „SFML/Graphics.hpp”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(2,18): error C7612: nie można znaleźć jednostki nagłówka dla „iostream”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(4,22): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(78,20): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(78,24): error C2061: błąd składniowy: identyfikator „RenderWindow”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(107,20): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(107,24): error C2061: błąd składniowy: identyfikator „RenderWindow”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(120,21): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(120,25): error C2061: błąd składniowy: identyfikator „RenderWindow”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(79,9): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(79,22): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(79,33): error C2065: "White": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(83,9): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(83,13): error C2065: "RectangleShape": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(83,28): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „square”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(83,35): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(83,39): error C3861: "Vector2f": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(83,28): error C3861: "square": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(84,9): error C2065: "square": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(84,29): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(84,40): error C2065: "Transparent": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(85,9): error C2065: "square": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,9): error C2065: "square": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,32): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(86,43): error C2065: "Black": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(90,17): error C2065: "square": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(91,17): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(91,29): error C2065: "square": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(95,31): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(98,32): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(103,9): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(108,9): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(108,13): error C2065: "VertexArray": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(108,25): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „cross”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(108,31): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(108,35): error C2065: "Lines": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(108,25): error C3861: "cross": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(109,9): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(109,29): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(109,42): error C2065: "x": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(109,46): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(109,58): error C2065: "y": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(109,62): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(109,33): error C3861: "Vector2f": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(110,9): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(110,29): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(110,42): error C2065: "x": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(110,46): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(110,58): error C2065: "y": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(110,62): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(110,33): error C3861: "Vector2f": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(111,9): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(111,29): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(111,42): error C2065: "x": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(111,46): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(111,58): error C2065: "y": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(111,62): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(111,33): error C3861: "Vector2f": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(112,9): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(112,29): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(112,42): error C2065: "x": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(112,46): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(112,58): error C2065: "y": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(112,62): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(112,33): error C3861: "Vector2f": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(113,9): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(113,26): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(113,37): error C2065: "Red": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(114,9): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(114,26): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(114,37): error C2065: "Red": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(115,9): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(115,26): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(115,37): error C2065: "Red": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(116,9): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(116,26): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(116,37): error C2065: "Red": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(117,9): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(117,21): error C2065: "cross": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(121,9): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(121,13): error C2065: "CircleShape": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(121,25): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „circle”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(121,32): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(121,25): error C3861: "circle": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(122,9): error C2065: "circle": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(122,29): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(122,40): error C2065: "Transparent": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(123,9): error C2065: "circle": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(124,9): error C2065: "circle": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(124,32): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(124,43): error C2065: "Blue": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(125,9): error C2065: "circle": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(125,28): error C2065: "x": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(125,32): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(125,44): error C2065: "y": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(125,48): error C2065: "size": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(126,9): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Plansza.ixx(126,21): error C2065: "circle": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(1,27): error C7612: nie można znaleźć jednostki nagłówka dla „SFML/Graphics.hpp”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(2,18): error C7612: nie można znaleźć jednostki nagłówka dla „iostream”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(4,12): error C2230: nie można znaleźć modułu „Game”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(5,16): error C2230: nie można znaleźć modułu „zapisGry”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(6,19): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(9,5): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(9,22): error C3646: "window": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(9,28): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(10,5): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(10,14): error C3646: "font": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(10,18): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(11,5): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(11,14): error C3646: "startText": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(11,23): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(12,5): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(12,14): error C3646: "saveText": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(12,22): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(13,5): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(13,14): error C3646: "closeText": nieznany specyfikator przesłonięcia
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(13,23): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(21,9): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(21,23): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(21,27): error C3861: "VideoMode": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(23,14): error C2065: "font": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(24,18): error C2039: „cerr”: nie jest składową elementu „std”
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(25,1):
+  zobacz deklarację „std”
+  
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(24,18): error C2065: "cerr": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(24,57): error C2039: „endl”: nie jest składową elementu „std”
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(25,1):
+  zobacz deklarację „std”
+  
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(24,57): error C2065: "endl": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(27,9): error C2065: "startText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(27,27): error C2065: "font": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(28,9): error C2065: "startText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(29,9): error C2065: "startText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(30,9): error C2065: "startText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(32,9): error C2065: "saveText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(32,26): error C2065: "font": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(33,9): error C2065: "saveText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(34,9): error C2065: "saveText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(35,9): error C2065: "saveText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(37,9): error C2065: "closeText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(37,27): error C2065: "font": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(38,9): error C2065: "closeText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(39,9): error C2065: "closeText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(40,9): error C2065: "closeText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(44,14): error C2039: „cout”: nie jest składową elementu „std”
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(25,1):
+  zobacz deklarację „std”
+  
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(44,14): error C2065: "cout": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(44,48): error C2039: „endl”: nie jest składową elementu „std”
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(25,1):
+  zobacz deklarację „std”
+  
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(44,48): error C2065: "endl": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(45,9): error C2065: "Game": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(45,14): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „game”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(45,14): error C2065: "game": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(46,9): error C2065: "game": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(58,9): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(62,16): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(63,13): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(63,17): error C2065: "Event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(63,23): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „event”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(63,23): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(64,20): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(64,37): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(65,21): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(65,35): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(65,46): error C2065: "Closed": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(66,21): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(67,26): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(67,40): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(67,51): error C2065: "MouseButtonPressed": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(68,25): error C2065: "event": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(68,53): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(68,64): error C2065: "Left": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(69,25): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(69,29): error C2065: "Vector2i": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(69,38): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „mousePos”
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(69,38): error C2065: "mousePos": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(69,49): error C2653: "sf": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(69,72): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(69,60): error C3861: "getPosition": identyfikatora nie odnaleziono
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(70,29): error C2065: "startText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(70,66): error C2065: "mousePos": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(70,78): error C2065: "mousePos": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(72,34): error C2065: "saveText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(72,70): error C2065: "mousePos": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(72,82): error C2065: "mousePos": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(74,34): error C2065: "closeText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(74,71): error C2065: "mousePos": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(74,83): error C2065: "mousePos": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(80,13): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(81,13): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(81,25): error C2065: "startText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(82,13): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(82,25): error C2065: "saveText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(83,13): error C2065: "window": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(83,25): error C2065: "closeText": niezadeklarowany identyfikator
+C:\Users\Lenovo\Desktop\polsl\PK4\0e4bd7e3-gr32-repo\Projekt\kolko_krzyzyk\kolko_krzyzyk\Menu.ixx(84,13): error C2065: "window": niezadeklarowany identyfikator
